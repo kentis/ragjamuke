@@ -1,0 +1,242 @@
+[
+  {
+    "title": "I'm Yours",
+    "chords": ["C", "G", "Am", "F"],
+    "pattern": "D D U U D U",
+    "tags": ["happy", "love", "beach", "beginner"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Riptide",
+    "chords": ["Am", "G", "C", "F"],
+    "pattern": "D D UDU",
+    "tags": ["energetic", "fun", "indie"],
+    "difficulty": "medium"
+  },
+{
+    "title": "Wonderwall",
+    "chords": ["Em7", "G", "Dsus4", "A7sus4", "Cadd9"],
+    "pattern": "D D UUD U",
+    "tags": ["britpop", "90s", "emotional", "singalong"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "4 Chords (Axis of Awesome)",
+    "chords": ["C", "G", "Am", "F"],
+    "pattern": "D D U U D U",
+    "tags": ["funny", "parody", "classic", "medley"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Hey Soul Sister",
+    "chords": ["C", "G", "Am", "F"],
+    "pattern": "D D U U D U",
+    "tags": ["pop", "feel-good", "train", "radio"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Let It Be",
+    "chords": ["C", "G", "Am", "F"],
+    "pattern": "D D D D",
+    "tags": ["beatles", "calm", "singalong", "classic"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Hallelujah",
+    "chords": ["C", "Am", "F", "G"],
+    "pattern": "D U D U D U",
+    "tags": ["emotional", "slow", "classic", "folk"],
+    "difficulty": "medium"
+  },
+{
+    "title": "Forelska i lærer'n",
+    "chords": ["D", "G", "A", "Bm"],
+    "pattern": "D D U U D U",
+    "tags": ["fun", "classic", "youth", "poprock"],
+    "difficulty": "medium"
+  },
+{
+    "title": "Idyll",
+    "artist": "Postgirobygget",
+    "chords": ["C", "F", "Am", "G"],
+    "pattern": "D D U U D U",
+    "tags": ["summer", "nostalgia", "party", "easy"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Kanskje du behøver noen",
+    "artist": "Postgirobygget",
+    "chords": ["D", "G", "A", "Bm"],
+    "pattern": "D U D U",
+    "tags": ["feel-good", "poprock", "1990s"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Tore Tang",
+    "artist": "Mods",
+    "chords": ["G", "C", "D", "Em", "Am"],
+    "pattern": "D D U U D U",
+    "tags": ["classic", "Rogaland", "anthem", "storytelling"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Bare i natt",
+    "artist": "Mods",
+    "chords": ["C", "F", "G", "Am"],
+    "pattern": "D D D D",
+    "tags": ["love", "nostalgia", "poprock"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Liden",
+    "artist": "Ingenting",
+    "chords": ["G", "C", "Em", "D"],
+    "pattern": "D U D U",
+    "tags": ["punk", "love", "emotional"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Neste sommer",
+    "artist": "deLillos",
+    "chords": ["C", "Am", "Dm", "E"],
+    "pattern": "D U D U D U",
+    "tags": ["summer", "relaxing", "classic"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Splitter pine",
+    "artist": "DumDum Boys",
+    "chords": ["E", "A", "B", "C#m"],
+    "pattern": "D D D D",
+    "tags": ["rock", "high energy", "anthem"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Kokken Tor",
+    "artist": "Bare Egil Band",
+    "chords": ["C", "G", "Am", "F"],
+    "pattern": "D U D U",
+    "tags": ["humor", "funny", "story"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Forelska i lærer’n",
+    "artist": "The Kids",
+    "chords": ["G", "C", "D", "Em"],
+    "pattern": "D D U U D U",
+    "tags": ["teen", "rock", "nostalgic"],
+    "difficulty": "easy"
+  },
+ {
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "chords": ["C", "F", "Am", "Dm", "G"],
+    "pattern": "D D U U D U",
+    "tags": ["peaceful", "classic", "emotional"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Common People",
+    "artist": "Pulp",
+    "chords": ["C", "G", "Am", "F"],
+    "pattern": "D D D U D",
+    "tags": ["britpop", "anthem", "90s"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "chords": ["C", "Am", "F", "G"],
+    "pattern": "D D U U D U",
+    "tags": ["soul", "romantic", "classic"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Yellow Submarine",
+    "artist": "The Beatles",
+    "chords": ["G", "D", "C"],
+    "pattern": "D D D D",
+    "tags": ["fun", "singalong", "kids"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "I’m a Believer",
+    "artist": "The Monkees",
+    "chords": ["G", "C", "D", "Em"],
+    "pattern": "D U D U",
+    "tags": ["upbeat", "singalong", "retro"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Wonder",
+    "artist": "Natalie Imbruglia",
+    "chords": ["Am", "F", "C", "G"],
+    "pattern": "D D U D U",
+    "tags": ["90s", "pop", "emotional"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Take Me Home, Country Roads",
+    "artist": "John Denver",
+    "chords": ["G", "Em", "D", "C"],
+    "pattern": "D D U U D U",
+    "tags": ["folk", "travel", "classic"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "chords": ["Am", "C", "G", "F"],
+    "pattern": "D D U U D U",
+    "tags": ["pop", "modern", "energy"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Don’t Stop Believin’",
+    "artist": "Journey",
+    "chords": ["E", "B", "C#m", "A"],
+    "pattern": "D D U U D U",
+    "tags": ["rock", "classic", "anthem"],
+    "difficulty": "medium"
+  },
+{
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "chords": ["D", "C", "G"],
+    "pattern": "D D U U D U",
+    "tags": ["classic rock", "southern", "anthem"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "chords": ["Am", "E", "G", "D", "F", "C", "Dm"],
+    "pattern": "D D U D U",
+    "tags": ["classic rock", "storytelling", "moody"],
+    "difficulty": "hard"
+  },
+  {
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "chords": ["G", "C", "D", "Am", "Em"],
+    "pattern": "D D U U D U",
+    "tags": ["classic rock", "emotional", "singalong"],
+    "difficulty": "medium"
+  },
+  {
+    "title": "Knockin’ on Heaven’s Door",
+    "artist": "Bob Dylan",
+    "chords": ["G", "D", "Am", "C"],
+    "pattern": "D D U U D U",
+    "tags": ["classic rock", "slow", "anthem"],
+    "difficulty": "easy"
+  },
+  {
+    "title": "Brown Eyed Girl",
+    "artist": "Van Morrison",
+    "chords": ["G", "C", "D", "Em"],
+    "pattern": "D U D U D U",
+    "tags": ["classic rock", "happy", "singalong"],
+    "difficulty": "easy"
+  }
+]
