@@ -15,7 +15,7 @@ const inferResults = async (songs, query) => {
     const response = await openai.chat.completions.create({
     model: "gpt-4o-mini",
       messages: [{ role: "user", content: prompt }],
-      max_tokens: 500,
+      max_tokens: 1000,
       temperature: 0.6});
 
   return response.choices[0].message.content;
