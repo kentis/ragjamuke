@@ -1,0 +1,68 @@
+easy summer-jam with four or less cords
+-------
+Sure! Here are some easy ukulele strumming tips and tabs for the songs you mentioned, along with two similar songs that are perfect for beginners and use four chords or less.
+
+### 1. "Neste sommer" by deLillos
+**Chords: C, G, Am, F**
+
+**Strumming Pattern:**
+A simple down-up strumming pattern works well. Try this:
+- D-DU-UDU (D = down, U = up)
+
+**Chord Tabs:**
+```
+C   G   Am  F
+A|---0---3---0---1---
+E|---0---3---0---1---
+C|---0---0---0---2---
+G|---0---0---2---3---
+```
+
+### 2. "Idyll" by Postgirobygget
+**Chords: C, G, Am, F**
+
+**Strumming Pattern:**
+You can use the same strumming pattern as above:
+- D-DU-UDU
+
+**Chord Tabs:**
+```
+C   G   Am  F
+A|---0---3---0---1---
+E|---0---3---0---1---
+C|---0---0---0---2---
+G|---0---0---2---3---
+```
+
+### 3. Similar Song #1: "I'm Yours" by Jason Mraz
+**Chords: C, G, Am, F**
+
+**Strumming Pattern:**
+Try this pattern:
+- D-DU-UDU
+
+**Chord Tabs:**
+```
+C   G   Am  F
+A|---0---3---0---1---
+E|---0---3---0---1---
+C|---0---0---0---2---
+G|---0---0---2---3---
+```
+
+### 4. Similar Song #2: "Riptide" by Vance Joy
+**Chords: Am, G, C, F**
+
+**Strumming Pattern:**
+Use the same strumming pattern:
+- D-DU-UDU
+
+**Chord Tabs:**
+```
+Am  G   C   F
+A|---0---2---0---1---
+E|---0---3---1---1---
+C|---0---0---0---2---
+G|---2---0---0---3---
+```
+
